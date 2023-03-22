@@ -1,5 +1,4 @@
-# noralinguist.github.io
-Exploring
+
 # Documentation Life Cycle
 ## Phases
 
